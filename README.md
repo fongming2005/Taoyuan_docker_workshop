@@ -4,7 +4,7 @@
 
 ## [第二天投影片](./106年桃園市教育局Docker研習班Day2.pdf)
 
-[Azure Pass使用說明](./AzurePass運用個人帳號申請.pdf)
+[Azure Pass使用說明](./2017-Azure%20Pass%20申請流程.pdf)
 
 [vSphere Docker Volume Service](https://github.com/vmware/docker-volume-vsphere)
 
